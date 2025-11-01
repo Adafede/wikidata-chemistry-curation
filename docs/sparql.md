@@ -46,19 +46,19 @@ The results look like this:
     <td><b>item</b></td>
   </tr>
   <tr>
-    <td>http://dbpedia.org/resource/Manganese_germanide</td>
-    <td>https://en.wikipedia.org/wiki/Manganese_germanide</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q97933222">Manganese germanide</a> (<a href="http://www.wikidata.org/entity/Q97933222">edit</a>)</td>
-  </tr>
-  <tr>
-    <td>http://dbpedia.org/resource/Potassium_octacyanomolybdate(IV)</td>
-    <td>https://en.wikipedia.org/wiki/Potassium_octacyanomolybdate(IV)</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q98078085">Potassium octacyanomolybdate(IV)</a> (<a href="http://www.wikidata.org/entity/Q98078085">edit</a>)</td>
-  </tr>
-  <tr>
     <td>http://dbpedia.org/resource/Vanadium(V)_chloride_chlorimide</td>
     <td>https://en.wikipedia.org/wiki/Vanadium(V)_chloride_chlorimide</td>
-    <td><a href="https://tools.wmflabs.org/scholia/Q100341984">vanadium(V) chloride chlorimide</a> (<a href="http://www.wikidata.org/entity/Q100341984">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q100341984">vanadium(V) chloride chlorimide</a> (<a href="http://www.wikidata.org/entity/Q100341984">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>http://dbpedia.org/resource/Potassium_tetracarbonyliron_hydride</td>
+    <td>https://en.wikipedia.org/wiki/Potassium_tetracarbonyliron_hydride</td>
+    <td><a href="https://scholia.toolforge.org/Q100552750">potassium tetracarbonyliron hydride</a> (<a href="http://www.wikidata.org/entity/Q100552750">edit</a>)</td>
+  </tr>
+  <tr>
+    <td>http://dbpedia.org/resource/(Triphenylphosphine)iron_tetracarbonyl</td>
+    <td>https://en.wikipedia.org/wiki/(Triphenylphosphine)iron_tetracarbonyl</td>
+    <td><a href="https://scholia.toolforge.org/Q100693702">(triphenylphosphine)iron tetracarbonyl</a> (<a href="http://www.wikidata.org/entity/Q100693702">edit</a>)</td>
   </tr>
   <tr><td colspan="2"><a href="sparql/missingSMILES.code.html">sparql/missingSMILES.rq</a></td></tr>
 </table>
@@ -85,13 +85,13 @@ This returns values like this:
     <td><b>cmp</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q145126">polyisoprene</a> (<a href="http://www.wikidata.org/entity/Q145126">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q145126">polyisoprene</a> (<a href="http://www.wikidata.org/entity/Q145126">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q146415">Styrene-acrylonitrile resin</a> (<a href="http://www.wikidata.org/entity/Q146415">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q146415">Styrene-acrylonitrile resin</a> (<a href="http://www.wikidata.org/entity/Q146415">edit</a>)</td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q408014">chondroitin sulfate</a> (<a href="http://www.wikidata.org/entity/Q408014">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q408014">chondroitin sulfate</a> (<a href="http://www.wikidata.org/entity/Q408014">edit</a>)</td>
   </tr>
   <tr><td colspan="2"><a href="sparql/polymersWithoutCXSMILES.code.html">sparql/polymersWithoutCXSMILES.rq</a></td></tr>
 </table>
@@ -118,15 +118,15 @@ Here too, the list provides a list of curation opportunities:
     <td><b>cxsmiles</b></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2633793">acetamido group</a> (<a href="http://www.wikidata.org/entity/Q2633793">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q2633793">acetamido group</a> (<a href="http://www.wikidata.org/entity/Q2633793">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2633806">peroxyacetyl group</a> (<a href="http://www.wikidata.org/entity/Q2633806">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q2633806">peroxyacetyl group</a> (<a href="http://www.wikidata.org/entity/Q2633806">edit</a>)</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://tools.wmflabs.org/scholia/Q2896782">benzhydryl</a> (<a href="http://www.wikidata.org/entity/Q2896782">edit</a>)</td>
+    <td><a href="https://scholia.toolforge.org/Q2896782">benzhydryl</a> (<a href="http://www.wikidata.org/entity/Q2896782">edit</a>)</td>
     <td></td>
   </tr>
   <tr><td colspan="2"><a href="sparql/functionalGroupsWithoutCXSMILES.code.html">sparql/functionalGroupsWithoutCXSMILES.rq</a></td></tr>
