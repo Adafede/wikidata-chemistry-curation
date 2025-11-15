@@ -55,6 +55,13 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q417219</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2079587/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3182301/</td>
+    <td>false</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q417227</td>
     <td>2</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1286/</td>
@@ -83,17 +90,17 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q417219</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2079587/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3182301/</td>
-    <td>false</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q75830</td>
     <td>2</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL18041/</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL28992/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q7699849</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1097558/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1908355/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -111,13 +118,6 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q7699849</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1097558/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1908355/</td>
-    <td>false</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q27164669</td>
     <td>2</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3192290/</td>
@@ -132,17 +132,17 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q27088229</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL408678/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL91730/</td>
-    <td>false</td>
-  </tr>
-  <tr>
     <td>http://www.wikidata.org/entity/Q285687</td>
     <td>2</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL55242/</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL553426/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q27088229</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL408678/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL91730/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -167,10 +167,10 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q419841</td>
+    <td>http://www.wikidata.org/entity/Q415220</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1189679/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1276421/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201258/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL225072/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -181,17 +181,10 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q415220</td>
+    <td>http://www.wikidata.org/entity/Q15634083</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201258/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL225072/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q14200353</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1778156/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2110756/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL285913/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL588593/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -202,38 +195,17 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q418086</td>
+    <td>http://www.wikidata.org/entity/Q14200353</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1616433/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1650818/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1778156/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2110756/</td>
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q15634083</td>
+    <td>http://www.wikidata.org/entity/Q419841</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL285913/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL588593/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q425295</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1729/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL560739/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q27076721</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL565305/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL567470/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q5259281</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1569195/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL493682/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1189679/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1276421/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -244,10 +216,52 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
+    <td>http://www.wikidata.org/entity/Q5259281</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1569195/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL493682/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q418086</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1616433/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1650818/</td>
+    <td>false</td>
+  </tr>
+  <tr>
     <td>http://www.wikidata.org/entity/Q4631298</td>
     <td>2</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3218924/</td>
     <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL422904/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q27076721</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL565305/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL567470/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q425295</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1729/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL560739/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q21098973</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2364640/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3545184/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q906271</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201534/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201684/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -258,17 +272,38 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q2482223</td>
+    <td>http://www.wikidata.org/entity/Q4132745</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL207538/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL38856/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1197091/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1199540/</td>
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q21098973</td>
+    <td>http://www.wikidata.org/entity/Q426921</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2364640/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL3545184/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL269671/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL77/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q7558263</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1232510/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1240704/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q15409437</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL197027/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL268697/</td>
+    <td>false</td>
+  </tr>
+  <tr>
+    <td>http://www.wikidata.org/entity/Q190016</td>
+    <td>2</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1909300/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL526514/</td>
     <td>false</td>
   </tr>
   <tr>
@@ -293,45 +328,10 @@ ORDER BY DESC(?count)
     <td>false</td>
   </tr>
   <tr>
-    <td>http://www.wikidata.org/entity/Q7558263</td>
+    <td>http://www.wikidata.org/entity/Q2482223</td>
     <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1232510/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1240704/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q4132745</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1197091/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1199540/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q426921</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL269671/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL77/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q15409437</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL197027/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL268697/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q190016</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1909300/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL526514/</td>
-    <td>false</td>
-  </tr>
-  <tr>
-    <td>http://www.wikidata.org/entity/Q906271</td>
-    <td>2</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201534/</td>
-    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1201684/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL207538/</td>
+    <td>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL38856/</td>
     <td>false</td>
   </tr>
 </table>
