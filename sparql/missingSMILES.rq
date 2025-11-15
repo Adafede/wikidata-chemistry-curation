@@ -22,3 +22,4 @@ SELECT ?s ?article ?item ?itemLabel WITH {
   ?item wdt:P31 ?chemicals.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
+ORDER BY ASC(?item)
